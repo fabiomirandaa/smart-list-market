@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
           title: Text('Welcome to SLM'),
         ),
         body: Center(
-          child: Text('Smart List Market APP'),
+          child: Text('Aquele famoso Hello World.')
         ),
       ),
     );
